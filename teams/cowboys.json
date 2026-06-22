@@ -1,13 +1,10 @@
-nfl-app-api/
-├── teams/
-│   ├── cowboys.json
-│   ├── chiefs.json
-│   └── 49ers.json
-├── roster/
-│   ├── cowboys_roster.json
-│   ├── chiefs_roster.json
-│   └── 49ers_roster.json
-└── cheerleaders/
-    ├── cowboys_cheer.json
-    ├── chiefs_cheer.json
-    └── 49ers_cheer.json
+{
+  "city_name": "Dallas",
+  "team_name": "Cowboys",
+  "logo_url": "https://github.io",
+  "year_established": 1960,
+  "super_bowl_appearances": 8,
+  "super_bowl_wins": 5,
+  "location": "Arlington, Texas",
+  "owner": "Jerry Jones"
+}
