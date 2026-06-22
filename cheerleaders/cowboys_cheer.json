@@ -1,0 +1,15 @@
+{
+  "team": "Dallas Cowboys",
+  "squad": [
+    {
+      "name": "Kelli",
+      "age": 24,
+      "picture_url": "https://github.io"
+    },
+    {
+      "name": "Caroline",
+      "age": 23,
+      "picture_url": "https://github.io"
+    }
+  ]
+}
