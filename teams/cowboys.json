@@ -1,0 +1,13 @@
+nfl-app-api/
+├── teams/
+│   ├── cowboys.json
+│   ├── chiefs.json
+│   └── 49ers.json
+├── roster/
+│   ├── cowboys_roster.json
+│   ├── chiefs_roster.json
+│   └── 49ers_roster.json
+└── cheerleaders/
+    ├── cowboys_cheer.json
+    ├── chiefs_cheer.json
+    └── 49ers_cheer.json
