@@ -1,0 +1,46 @@
+{
+  "team": "Dallas Cowboys",
+  "coaches": [
+    {
+      "name": "Mike McCarthy",
+      "role": "Head Coach",
+      "age": 62,
+      "college": "Arkansas",
+      "picture_url": "https://github.io"
+    }
+  ],
+  "players": [
+    {
+      "name": "CeeDee Lamb",
+      "position": "Wide Receiver",
+      "age": 27,
+      "height": "6-2",
+      "college": "Oklahoma",
+      "draft_pick": "Round 1, Pick 17",
+      "picture_url": "https://github.io",
+      "stats": {
+        "games_played": 17,
+        "touchdowns": 12,
+        "catches": 135,
+        "yards": 1749,
+        "passing_yards": 0
+      }
+    },
+    {
+      "name": "Dak Prescott",
+      "position": "Quarterback",
+      "age": 32,
+      "height": "6-2",
+      "college": "Mississippi State",
+      "draft_pick": "Round 4, Pick 135",
+      "picture_url": "https://github.io",
+      "stats": {
+        "games_played": 17,
+        "touchdowns": 36,
+        "catches": 0,
+        "yards": 242,
+        "passing_yards": 4516
+      }
+    }
+  ]
+}
